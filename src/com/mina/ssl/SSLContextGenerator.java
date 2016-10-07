@@ -8,22 +8,7 @@ import javax.net.ssl.SSLContext;
 import org.apache.mina.filter.ssl.KeyStoreFactory;
 import org.apache.mina.filter.ssl.SslContextFactory;
 
-/**
- * <pre>
- * Project Name:SSLContextGenerator
- * Package:com.example.mina.ssl
- * FileName:SSLContextGenerator.java
- * Purpose:SSL加密的上下文产生器
- * Create Time: 2014-8-19 下午4:41:55
- * Create Specification:
- * Modified Time:
- * Modified by:
- * Modified Specification:
- * Version: 1.0
- * </pre>
- * 
- * @author myp
- */
+
 public class SSLContextGenerator {
 
 	/**
