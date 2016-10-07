@@ -6,22 +6,7 @@ import org.apache.mina.core.session.IoSession;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * <pre>
- * Project Name:MsgHanler
- * Package:com.mina.handler
- * FileName:MsgHanler.java
- * Purpose:I/O消息处理器,从这里我们就可以看出Mina是事件驱动的
- * Create Time: 2014-8-19 下午4:55:55
- * Create Specification:
- * Modified Time:
- * Modified by:
- * Modified Specification:
- * Version: 1.0
- * </pre>
- * 
- * @author myp
- */
+
 public class MsgHanler extends IoHandlerAdapter {
 	private static final Logger log = LoggerFactory.getLogger(MsgHanler.class);
 
