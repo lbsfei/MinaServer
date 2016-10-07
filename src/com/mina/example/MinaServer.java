@@ -15,22 +15,7 @@ import com.mina.charset.CharsetFactory;
 import com.mina.hanlder.MsgHanler;
 import com.mina.ssl.SSLContextGenerator;
 
-/**
- * <pre>
- * Project Name:MinaServer
- * Package:com.mina.example
- * FileName:MinaServer.java
- * Purpose:服务器
- * Create Time: 2014-8-19 下午4:59:55
- * Create Specification:
- * Modified Time:
- * Modified by:
- * Modified Specification:
- * Version: 1.0
- * </pre>
- * 
- * @author myp
- */
+
 public class MinaServer {
 
 	private SocketAcceptor acceptor;
